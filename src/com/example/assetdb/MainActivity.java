@@ -13,6 +13,11 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
+/**
+ * Prueba mateo
+ * @author emaneff
+ *
+ */
 public class MainActivity extends Activity {
 
 	@Override
